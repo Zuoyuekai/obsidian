@@ -1,126 +1,37 @@
 {
   "main": {
-    "id": "1c7773706e9160b9",
+    "id": "3785b3ad8fd539ae",
     "type": "split",
     "children": [
       {
-        "id": "b05f1157f57fa2ab",
+        "id": "c2ec974068c5b220",
         "type": "tabs",
         "children": [
           {
-            "id": "ae711a6c89ce371c",
+            "id": "aad8921a8e795dc1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "13cf28eca509bd72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-01-03.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-01-03"
-            }
-          },
-          {
-            "id": "2192d07ec051ac4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/预备知识.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "预备知识"
-            }
-          },
-          {
-            "id": "afdc1ddfd5538730",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/预备知识.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "预备知识"
-            }
-          },
-          {
-            "id": "33b7604555c27548",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "嵌入式/江协/51单片机/2-1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2-1"
-            }
-          },
-          {
-            "id": "f323c7d0bcf66363",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "英语/阅读/20250302.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250302"
-            }
-          },
-          {
-            "id": "772f18556873ea9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/2025-03-05.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-03-05"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ce07ef2e341c4d75",
+    "id": "8ec2d3ea6df3d23e",
     "type": "split",
     "children": [
       {
-        "id": "d0d0aebc59fb03f2",
+        "id": "df38ec2434857049",
         "type": "tabs",
         "children": [
           {
-            "id": "a74d435a59a66e8a",
+            "id": "9ccef4993f0e3958",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -133,7 +44,7 @@
             }
           },
           {
-            "id": "38fbdf2486c224dc",
+            "id": "b9147a855b683883",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -146,35 +57,35 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "搜索"
             }
           },
           {
-            "id": "2e3ae4edcb5d7a79",
+            "id": "e4fba09a0cd241a2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "书签"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "c2bd9f561f7eeb5b",
+    "id": "62573d5d2cb1e86f",
     "type": "split",
     "children": [
       {
-        "id": "95c052fed8af74fe",
+        "id": "11e4fa8b4734739c",
         "type": "tabs",
         "children": [
           {
-            "id": "6529a173a510b513",
+            "id": "abd4273c2d711a13",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -189,11 +100,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HTML"
+              "title": "HTML 的反向链接列表"
             }
           },
           {
-            "id": "baf59c699cdb4a77",
+            "id": "e86f3f3fe45292b9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -203,11 +114,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from HTML"
+              "title": "HTML 的出链列表"
             }
           },
           {
-            "id": "8b1fa2addd580b92",
+            "id": "ea4b914bb333db42",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -216,11 +127,11 @@
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "标签"
             }
           },
           {
-            "id": "dd8cbb3e35ee9e1c",
+            "id": "066a61a4c9eab68c",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -228,7 +139,7 @@
                 "file": "HTML.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of HTML"
+              "title": "HTML 的大纲"
             }
           }
         ]
@@ -248,51 +159,48 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f323c7d0bcf66363",
+  "active": "9ccef4993f0e3958",
   "lastOpenFiles": [
-    "英语/未命名.md",
+    "testttttttttttttttt",
     "英语/阅读/20250302.md",
     "英语/阅读",
-    "嵌入式/江协/51单片机/未命名.md",
+    "英语",
+    "未命名.md",
     "未命名 1.md",
-    "嵌入式/江协/51单片机/3-1.md",
-    "嵌入式/江协/51单片机/3-2.md",
-    "嵌入式/江协/51单片机/3-3.md",
+    "嵌入式/江协/51单片机/未命名.md",
     "嵌入式/江协/51单片机/attachments/Pasted image 20250305172916.png",
     "嵌入式/江协/51单片机/attachments/Pasted image 20250305155636.png",
     "嵌入式/江协/51单片机/attachments/Pasted image 20250305151304.png",
     "嵌入式/江协/51单片机/attachments/Pasted image 20250305151126.png",
-    "嵌入式/江协/51单片机/2-2.md",
-    "2-2.md",
-    "Diary/2025-03-05.md",
-    "未命名.md",
-    "嵌入式/江协/51单片机/2-1.md",
-    "英语",
-    "Diary/2025-03-03.md",
-    "Diary/2025-02-27.md",
-    "Diary/2025-02-26.md",
-    "Diary/2025-01-03.md",
     "嵌入式/江协/51单片机/attachments/Pasted image 20250227143533.png",
-    "嵌入式/江协/51单片机/1_3.md",
     "嵌入式/江协/51单片机/attachments/Pasted image 20250225090131.png",
     "嵌入式/江协/51单片机/attachments/Pasted image 20250225085926.png",
     "嵌入式/江协/51单片机/attachments/Pasted image 20250225085623.png",
     "嵌入式/江协/51单片机/attachments/Pasted image 20250225085254.png",
     "嵌入式/江协/51单片机/attachments/Pasted image 20250225085104.png",
     "嵌入式/江协/51单片机/attachments",
-    "嵌入式/未命名.md",
+    "嵌入式/江协/51单片机/3-3.md",
+    "嵌入式/江协/51单片机/3-2.md",
+    "嵌入式/江协/51单片机/3-1.md",
+    "嵌入式/江协/51单片机/2-1.md",
+    "嵌入式/江协/51单片机/2-2.md",
+    "嵌入式/江协/51单片机/1_3.md",
     "嵌入式/江协/51单片机",
     "嵌入式/江协",
-    "前端/千古教程/2-1.md",
-    "嵌入式.md",
     "嵌入式",
     "前端/千古教程/预备知识.md",
+    "前端/千古教程/attachments",
+    "前端/千古教程/2-1.md",
     "前端/千古教程",
+    "前端",
+    "HTML.md",
+    "Diary/2025-03-05.md",
+    "Diary/2025-03-03.md",
+    "Diary/2025-02-27.md",
+    "Diary/2025-02-26.md",
+    "Diary/2025-01-03.md",
     "Diary/2024-12-27.md",
     "Diary",
-    "前端/千古教程/attachments",
-    "附录文件",
-    "Welcome.md",
-    "HTML.md"
+    "2-2.md"
   ]
 }
