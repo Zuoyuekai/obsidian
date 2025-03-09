@@ -11,10 +11,14 @@
             "id": "aad8921a8e795dc1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "testttttttttttttttt/test.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "test"
             }
           }
         ]
@@ -159,8 +163,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9ccef4993f0e3958",
+  "active": "aad8921a8e795dc1",
   "lastOpenFiles": [
+    "testttttttttttttttt/test.md",
     "testttttttttttttttt",
     "英语/阅读/20250302.md",
     "英语/阅读",
@@ -200,7 +205,6 @@
     "Diary/2025-02-26.md",
     "Diary/2025-01-03.md",
     "Diary/2024-12-27.md",
-    "Diary",
     "2-2.md"
   ]
 }
